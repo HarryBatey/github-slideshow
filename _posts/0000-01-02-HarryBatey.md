@@ -2,5 +2,5 @@
 layout: slide
 title: "welcome to our second slide!"
 ---
-Hello everyone
+Joemama funny meme
 Use the left arrow to go back!
